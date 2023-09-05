@@ -8,7 +8,7 @@
 * 🌱 Currently learning Computer Graphics.
 * 📚 Reading _Physically Based Rendering from Theory to implementation_
 * 💻 With 6 years' graphics program development working experience and 4 years' general software development working experience
-* 💼 Currently working at NetEase. 😎
+* 💼 Currently working at Electronic Arts. 😎
 * 💬 Welcomed to ask me about _Realtime Rendering_ or _Ray Tracing_. 😎
 * 📫 How to reach me: [mailto:tyzhang108@gmail.com](mailto:tyzhang108@gmail.com)
 
